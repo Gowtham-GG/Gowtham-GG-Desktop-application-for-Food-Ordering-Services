@@ -1,0 +1,10 @@
+1.Chicken Biryani               -  Rs.120/-
+2.Mutton Biryani                -  Rs.180/-
+3.Roti                          -  Rs.100/-
+4.Chicken Fried Rice            -  Rs.90/-
+5.Egg Fried Rice                -  Rs.70/-
+6.Dosaaaaaaa                    - Rs. 1/-    
+7.Chapatti                           - Rs.30/-
+
+                Press 0 to CheckOut
+----------------------------------------------------------

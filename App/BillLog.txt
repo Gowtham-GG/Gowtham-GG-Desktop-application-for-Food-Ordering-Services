@@ -1,0 +1,550 @@
+2021/12/25 09:24:17
+-----------------------Order Summary----------------------
+Customer Name : GGGG
+Mobile No.: 1234567890
+Address :SSSram
+
+		Food Item	|	Quantity	|	Price
+Roast         			1			30.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	30.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	30.0
+----------------------------------------------------------
+
+
+
+2021/12/25 10:10:10
+-----------------------Order Summary----------------------
+Customer Name : asdfa
+Mobile No.: 1234567890
+Address :sdvsdfsdf
+
+		Food Item	|	Quantity	|	Price
+Chapati       			1			15.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	15.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	15.0
+----------------------------------------------------------
+
+
+
+2021/12/25 10:11:33
+-----------------------Order Summary----------------------
+Customer Name : gayu
+Mobile No.: 9500998458
+Address :america
+
+		Food Item	|	Quantity	|	Price
+Idli          			1			7.0
+Pongal        			1			60.0
+Vadai         			1			5.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	72.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	72.0
+----------------------------------------------------------
+
+
+
+2021/12/25 10:12:50
+-----------------------Order Summary----------------------
+Customer Name : g hjn
+Mobile No.: 1234567890
+Address :df cv
+
+		Food Item	|	Quantity	|	Price
+Idli          			1			7.0
+Pongal        			1			60.0
+Vadai         			1			5.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	144.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	144.0
+----------------------------------------------------------
+
+
+
+2021/12/26 20:02:18
+-----------------------Order Summary----------------------
+Customer Name : gpalani
+Mobile No.: 7373087113
+Address :vihsrtiru
+
+		Food Item	|	Quantity	|	Price
+Idli          			2			14.0
+Roast         			1			30.0
+Pongal        			2			120.0
+Chapati       			1			15.0
+Vadai         			2			10.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	189.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	189.0
+----------------------------------------------------------
+
+
+
+2021/12/26 20:08:40
+-----------------------Order Summary----------------------
+Customer Name : lala
+Mobile No.: 0987654321
+Address :homef
+
+		Food Item	|	Quantity	|	Price
+Idli          			3			21.0
+Poori         			3			90.0
+Idiyappam     			1			20.0
+Kichadi       			1			35.0
+Biryani         			1			120.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	286.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	286.0
+----------------------------------------------------------
+
+
+
+2021/12/28 18:48:51
+-----------------------Order Summary----------------------
+Customer Name : sddfd
+Mobile No.: 9876543210
+Address :poiyur
+
+		Food Item	|	Quantity	|	Price
+Biryani         			1			120.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	120.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	120.0
+----------------------------------------------------------
+
+
+
+2021/12/30 00:20:00
+-----------------------Order Summary----------------------
+Customer Name : jhyfj
+Mobile No.: 7894561230
+Address :mhgcmg
+
+		Food Item	|	Quantity	|	Price
+Idli          			1			7.0
+Roast         			1			30.0
+Masala Roast 			1			50.0
+Rava Roast    			1			45.0
+Pongal        			1			60.0
+Biryani         			3			360.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	552.0
+Coupon Applied				:	CRAVINGS
+Total, coupon applied		:	552.0
+----------------------------------------------------------
+
+
+
+2021/12/30 01:00:29
+-----------------------Order Summary----------------------
+Customer Name : gvugvhv
+Mobile No.: 7894561230
+Address :zddgdg
+
+		Food Item	|	Quantity	|	Price
+Soothu   			1			110000.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	110000.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	110000.0
+----------------------------------------------------------
+
+
+
+2021/12/31 15:14:29
+-----------------------Order Summary----------------------
+Customer Name : kjjjkj
+Mobile No.: 4545454455
+Address :idiot get out
+
+		Food Item	|	Quantity	|	Price
+Idli          			3			21.0
+Roast         			4			120.0
+Masala Roast 			112			5600.0
+Rava Roast    			6			270.0
+Pongal        			5			300.0
+Poori         			5			150.0
+Chapati       			3			45.0
+Idiyappam     			4			80.0
+Kichadi       			2			70.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	6656.0
+Coupon Applied				:	YUMYUM
+Total, coupon applied		:	6656.0
+----------------------------------------------------------
+
+
+
+2022/01/02 14:18:59
+-----------------------Order Summary----------------------
+Customer Name : agsdg
+Mobile No.: 7894561230
+Address :fdfhdfh
+
+		Food Item	|	Quantity	|	Price
+Masala Roast 			1			50.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	50.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	50.0
+----------------------------------------------------------
+
+
+
+2022/01/02 14:51:14
+-----------------------Order Summary----------------------
+Customer Name : User1
+Mobile No.: 1234567890
+Address :Location
+
+		Food Item	|	Quantity	|	Price
+Roast         			2			60.0
+Pongal        			1			60.0
+Vadai         			3			15.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	135.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	135.0
+----------------------------------------------------------
+
+
+
+2022/01/02 14:51:43
+-----------------------Order Summary----------------------
+Customer Name : sdsvsd
+Mobile No.: 1234567980
+Address :dvsddfd
+
+		Food Item	|	Quantity	|	Price
+Roast         			2			60.0
+Pongal        			1			60.0
+Vadai         			3			15.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	270.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	270.0
+----------------------------------------------------------
+
+
+
+2022/01/02 14:52:05
+-----------------------Order Summary----------------------
+Customer Name : 123456789
+Mobile No.: 1234567980
+Address :dfsdfd
+
+		Food Item	|	Quantity	|	Price
+Masala Roast 			1			50.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	50.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	50.0
+----------------------------------------------------------
+
+
+
+2022/01/02 14:52:32
+-----------------------Order Summary----------------------
+Customer Name : asdasd
+Mobile No.: 1234567890
+Address :dsfdfsd
+
+		Food Item	|	Quantity	|	Price
+Masala Roast 			1			50.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	100.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	100.0
+----------------------------------------------------------
+
+
+
+2022/01/02 14:56:43
+-----------------------Order Summary----------------------
+Customer Name : dfdggg
+Mobile No.: 1234567890
+Address :dfasfa
+
+		Food Item	|	Quantity	|	Price
+Idiyappam     			1			20.0
+
+----------------------------------------------------------
+Payment Method				:	Credit Card
+Total						:	20.0
+Coupon Applied				:	CRAVINGS
+Total, coupon applied		:	20.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:00:28
+-----------------------Order Summary----------------------
+Customer Name : sfjbdbjhb
+Mobile No.: 1234567890
+Address :dfsadfsd
+
+		Food Item	|	Quantity	|	Price
+Masala Roast 			1			50.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	50.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	50.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:00:52
+-----------------------Order Summary----------------------
+Customer Name : asdasd
+Mobile No.: 1234567890
+Address :sadasd
+
+		Food Item	|	Quantity	|	Price
+Biryani         			1			120.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	170.0
+Coupon Applied				:	CRAVINGS
+Total, coupon applied		:	170.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:04:37
+-----------------------Order Summary----------------------
+Customer Name : User1
+Mobile No.: 1234567890
+Address :Location
+
+		Food Item	|	Quantity	|	Price
+Roast         			2			60.0
+Pongal        			1			60.0
+Vadai         			3			15.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	135.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	135.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:05:13
+-----------------------Order Summary----------------------
+Customer Name : User1
+Mobile No.: 1234567890
+Address :Location
+
+		Food Item	|	Quantity	|	Price
+Roast         			2			60.0
+Pongal        			1			60.0
+Vadai         			3			15.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	270.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	270.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:06:18
+-----------------------Order Summary----------------------
+Customer Name : User1
+Mobile No.: 1234567890
+Address :Location
+
+		Food Item	|	Quantity	|	Price
+Roast         			1			30.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	30.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	30.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:06:41
+-----------------------Order Summary----------------------
+Customer Name : User1
+Mobile No.: 1234567890
+Address :Location
+
+		Food Item	|	Quantity	|	Price
+Roast         			2			60.0
+Pongal        			1			60.0
+Vadai         			3			15.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	165.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	165.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:07:17
+-----------------------Order Summary----------------------
+Customer Name : User1
+Mobile No.: 1234567890
+Address :Location
+
+		Food Item	|	Quantity	|	Price
+Masala Roast 			1			50.0
+Rava Roast    			1			45.0
+Pongal        			1			60.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	155.0
+Coupon Applied				:	N/A
+Total, coupon applied		:	155.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:08:20
+-----------------------Order Summary----------------------
+Customer Name : User1
+Mobile No.: 1234567890
+Address :Location
+
+		Food Item	|	Quantity	|	Price
+Roast         			2			60.0
+Pongal        			1			60.0
+Vadai         			3			15.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	135.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	135.0
+----------------------------------------------------------
+
+
+
+2022/01/02 15:09:05
+-----------------------Order Summary----------------------
+Customer Name : User2
+Mobile No.: 9876543210
+Address :lo222
+
+		Food Item	|	Quantity	|	Price
+Roast         			1			30.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	165.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	165.0
+----------------------------------------------------------
+
+
+
+2022/03/10 15:26:08
+-----------------------Order Summary----------------------
+Customer Name : Saran G
+Mobile No.: 7894561230
+Address :polasbfaujhfvl
+
+		Food Item	|	Quantity	|	Price
+Masala Roast 			1			50.0
+Chapati       			1			15.0
+Idiyappam     			1			20.0
+Kichadi       			1			35.0
+Vadai         			1			5.0
+Biryani         			1			120.0
+
+----------------------------------------------------------
+Payment Method				:	Cash on Delivery
+Total						:	245.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	245.0
+----------------------------------------------------------
+
+
+
+2022/03/10 15:27:08
+-----------------------Order Summary----------------------
+Customer Name : yufktfk
+Mobile No.: 1234567980
+Address :jhvhgf
+
+		Food Item	|	Quantity	|	Price
+Biryani         			1			120.0
+
+----------------------------------------------------------
+Payment Method				:	UPI/BHIM
+Total						:	365.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	365.0
+----------------------------------------------------------
+
+
+
+2022/03/10 15:31:57
+-----------------------Order Summary----------------------
+Customer Name : v.arun
+Mobile No.: 7010577354
+Address :k.patti
+
+		Food Item	|	Quantity	|	Price
+Idli          			1			7.0
+Rava Roast    			2			90.0
+Idiyappam     			3			60.0
+
+----------------------------------------------------------
+Payment Method				:	Debit Card
+Total						:	157.0
+Coupon Applied				:	SUPER75
+Total, coupon applied		:	157.0
+----------------------------------------------------------
+
+
+

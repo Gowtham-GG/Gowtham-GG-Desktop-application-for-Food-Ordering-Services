@@ -1,0 +1,11 @@
+1.Idli          -7
+2.Roast         -30
+3.Masala Roast -50
+4.Rava Roast    -45
+5.Pongal        -60
+6.Poori         -30
+7.Chapati       -15
+8.Idiyappam     -20
+9.Kichadi       -35
+10.Vadai         -5
+11.Biryani         -120
